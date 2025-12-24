@@ -31,7 +31,6 @@ The agents carry an ongoing conversation, each responding in character per their
                 OPENAI_API_KEY=your-openai-key
         ANTHROPIC_API_KEY=your-anthropic-key
         GOOGLE_API_KEY=your-google-key
-        ```
 
 2. **Run the Notebook:**
     - Open `3botChats.ipynb` in Jupyter.
